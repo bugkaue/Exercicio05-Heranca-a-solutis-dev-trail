@@ -56,7 +56,7 @@ Crie uma classe `Vendedor` que estende `Empregado`. Adicione os seguintes atribu
 - `valorVendas` (double)
 - `comissao` (double)
 
-A classe deve redefinir o método `calcularSalario()` para incluir a comissão sobre o valor das vendas.
+A classe deve redefinir o metodo `calcularSalario()` para incluir a comissão sobre o valor das vendas.
 
 
 1. Clone o repositório:
